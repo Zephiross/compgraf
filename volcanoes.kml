@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="volcanoes_1" id="volcanoes_1">
+            <SimpleField type="string" name="country"/>
+            <SimpleField type="double" name="longitude"/>
+            <SimpleField type="double" name="latitude"/>
+            <SimpleField type="double" name="elevation"/>
+            <SimpleField type="string" name="type"/>
+            <SimpleField type="int" name="total_death"/>
+            <SimpleField type="double" name="total_damage"/>
+            <SimpleField type="string" name="date_occured"/>
+        </Schema>
+        <Folder>
+            <name>volcanoes</name>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fc9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Italy</SimpleData>
+                        <SimpleData name="longitude">40.821</SimpleData>
+                        <SimpleData name="latitude">14.426</SimpleData>
+                        <SimpleData name="elevation">1281.0</SimpleData>
+                        <SimpleData name="type">Complex volcano</SimpleData>
+                        <SimpleData name="total_death">3500</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">0079-08-24Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>14.426,40.821</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fc8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Japan</SimpleData>
+                        <SimpleData name="longitude">31.58</SimpleData>
+                        <SimpleData name="latitude">130.67</SimpleData>
+                        <SimpleData name="elevation">1117.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">0766-07-20Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>130.67,31.58</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fc7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Iceland</SimpleData>
+                        <SimpleData name="longitude">63.98</SimpleData>
+                        <SimpleData name="latitude">-19.7</SimpleData>
+                        <SimpleData name="elevation">1491.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1104-10-15Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-19.7,63.98</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fc6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Iceland</SimpleData>
+                        <SimpleData name="longitude">63.98</SimpleData>
+                        <SimpleData name="latitude">-19.7</SimpleData>
+                        <SimpleData name="elevation">1491.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1158-01-19Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-19.7,63.98</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fc5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Italy</SimpleData>
+                        <SimpleData name="longitude">37.734</SimpleData>
+                        <SimpleData name="latitude">15.004</SimpleData>
+                        <SimpleData name="elevation">3350.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">16000</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1169-02-04Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>15.004,37.734</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fc4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Italy</SimpleData>
+                        <SimpleData name="longitude">37.734</SimpleData>
+                        <SimpleData name="latitude">15.004</SimpleData>
+                        <SimpleData name="elevation">3350.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1169-02-11Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>15.004,37.734</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fc3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Iceland</SimpleData>
+                        <SimpleData name="longitude">63.98</SimpleData>
+                        <SimpleData name="latitude">-19.7</SimpleData>
+                        <SimpleData name="elevation">1491.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1206-12-04Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-19.7,63.98</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fc2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Iceland</SimpleData>
+                        <SimpleData name="longitude">63.98</SimpleData>
+                        <SimpleData name="latitude">-19.7</SimpleData>
+                        <SimpleData name="elevation">1491.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1300-07-11Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-19.7,63.98</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fc1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Iceland</SimpleData>
+                        <SimpleData name="longitude">63.63</SimpleData>
+                        <SimpleData name="latitude">-19.05</SimpleData>
+                        <SimpleData name="elevation">1512.0</SimpleData>
+                        <SimpleData name="type">Subglacial volcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1311-01-18Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-19.05,63.63</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fc0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Italy</SimpleData>
+                        <SimpleData name="longitude">37.734</SimpleData>
+                        <SimpleData name="latitude">15.004</SimpleData>
+                        <SimpleData name="elevation">3350.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1329-06-28Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>15.004,37.734</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fbf">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Italy</SimpleData>
+                        <SimpleData name="longitude">37.734</SimpleData>
+                        <SimpleData name="latitude">15.004</SimpleData>
+                        <SimpleData name="elevation">3350.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1329-07-01Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>15.004,37.734</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fbe">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Japan</SimpleData>
+                        <SimpleData name="longitude">32.88</SimpleData>
+                        <SimpleData name="latitude">131.1</SimpleData>
+                        <SimpleData name="elevation">1592.0</SimpleData>
+                        <SimpleData name="type">Caldera</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1331-12-01Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>131.1,32.88</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fbd">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Iceland</SimpleData>
+                        <SimpleData name="longitude">63.98</SimpleData>
+                        <SimpleData name="latitude">-19.7</SimpleData>
+                        <SimpleData name="elevation">1491.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1341-05-19Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-19.7,63.98</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fbc">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Iceland</SimpleData>
+                        <SimpleData name="longitude">64.0</SimpleData>
+                        <SimpleData name="latitude">-16.65</SimpleData>
+                        <SimpleData name="elevation">2119.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">220</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1362-06-05Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-16.65,64.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fbb">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Iceland</SimpleData>
+                        <SimpleData name="longitude">63.98</SimpleData>
+                        <SimpleData name="latitude">-19.7</SimpleData>
+                        <SimpleData name="elevation">1491.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1389-12-01Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-19.7,63.98</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fba">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Japan</SimpleData>
+                        <SimpleData name="longitude">37.12</SimpleData>
+                        <SimpleData name="latitude">139.97</SimpleData>
+                        <SimpleData name="elevation">1917.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">180</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1410-03-05Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>139.97,37.12</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fb9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Japan</SimpleData>
+                        <SimpleData name="longitude">31.58</SimpleData>
+                        <SimpleData name="latitude">130.67</SimpleData>
+                        <SimpleData name="elevation">1117.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1471-11-03Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>130.67,31.58</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fb8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Iceland</SimpleData>
+                        <SimpleData name="longitude">64.63</SimpleData>
+                        <SimpleData name="latitude">-17.53</SimpleData>
+                        <SimpleData name="elevation">2000.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1477-02-01Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-17.53,64.63</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fb7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Japan</SimpleData>
+                        <SimpleData name="longitude">32.88</SimpleData>
+                        <SimpleData name="latitude">131.1</SimpleData>
+                        <SimpleData name="elevation">1592.0</SimpleData>
+                        <SimpleData name="type">Caldera</SimpleData>
+                        <SimpleData name="total_death">1</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1485-01-01Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>131.1,32.88</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fb6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Iceland</SimpleData>
+                        <SimpleData name="longitude">63.98</SimpleData>
+                        <SimpleData name="latitude">-19.7</SimpleData>
+                        <SimpleData name="elevation">1491.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">1</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1510-07-25Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-19.7,63.98</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fb5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Italy</SimpleData>
+                        <SimpleData name="longitude">37.734</SimpleData>
+                        <SimpleData name="latitude">15.004</SimpleData>
+                        <SimpleData name="elevation">3350.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">1</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1536-03-23Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>15.004,37.734</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fb4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Italy</SimpleData>
+                        <SimpleData name="longitude">40.827</SimpleData>
+                        <SimpleData name="latitude">14.139</SimpleData>
+                        <SimpleData name="elevation">458.0</SimpleData>
+                        <SimpleData name="type">Caldera</SimpleData>
+                        <SimpleData name="total_death">24</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1538-09-29Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>14.139,40.827</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fb3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Indonesia</SimpleData>
+                        <SimpleData name="longitude">1.68</SimpleData>
+                        <SimpleData name="latitude">127.88</SimpleData>
+                        <SimpleData name="elevation">1185.0</SimpleData>
+                        <SimpleData name="type">Complex volcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1550-11-01Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>127.88,1.68</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fb2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Indonesia</SimpleData>
+                        <SimpleData name="longitude">1.375</SimpleData>
+                        <SimpleData name="latitude">127.52</SimpleData>
+                        <SimpleData name="elevation">1635.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1564-12-31Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>127.52,1.375</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fb1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Guatemala</SimpleData>
+                        <SimpleData name="longitude">14.381</SimpleData>
+                        <SimpleData name="latitude">-90.601</SimpleData>
+                        <SimpleData name="elevation">2552.0</SimpleData>
+                        <SimpleData name="type">Complex volcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1565-08-01Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.601,14.381</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fb0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Japan</SimpleData>
+                        <SimpleData name="longitude">31.93</SimpleData>
+                        <SimpleData name="latitude">130.87</SimpleData>
+                        <SimpleData name="elevation">1700.0</SimpleData>
+                        <SimpleData name="type">Shield volcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1566-10-31Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>130.87,31.93</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7faf">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Portugal</SimpleData>
+                        <SimpleData name="longitude">38.65</SimpleData>
+                        <SimpleData name="latitude">-28.08</SimpleData>
+                        <SimpleData name="elevation">1053.0</SimpleData>
+                        <SimpleData name="type">Fissure vent</SimpleData>
+                        <SimpleData name="total_death">10</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1580-05-01Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-28.08,38.65</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fae">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Iceland</SimpleData>
+                        <SimpleData name="longitude">63.63</SimpleData>
+                        <SimpleData name="latitude">-19.05</SimpleData>
+                        <SimpleData name="elevation">1512.0</SimpleData>
+                        <SimpleData name="type">Subglacial volcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1580-08-11Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-19.05,63.63</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fad">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Guatemala</SimpleData>
+                        <SimpleData name="longitude">14.473</SimpleData>
+                        <SimpleData name="latitude">-90.88</SimpleData>
+                        <SimpleData name="elevation">3763.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1581-12-26Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-90.88,14.473</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fac">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Colombia</SimpleData>
+                        <SimpleData name="longitude">4.895</SimpleData>
+                        <SimpleData name="latitude">-75.322</SimpleData>
+                        <SimpleData name="elevation">5321.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">636</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1595-03-12Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-75.322,4.895</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fab">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Japan</SimpleData>
+                        <SimpleData name="longitude">36.4</SimpleData>
+                        <SimpleData name="latitude">138.53</SimpleData>
+                        <SimpleData name="elevation">2560.0</SimpleData>
+                        <SimpleData name="type">Complex volcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1596-05-01Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>138.53,36.4</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7faa">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Iceland</SimpleData>
+                        <SimpleData name="longitude">63.98</SimpleData>
+                        <SimpleData name="latitude">-19.7</SimpleData>
+                        <SimpleData name="elevation">1491.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1597-01-03Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-19.7,63.98</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fa9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Japan</SimpleData>
+                        <SimpleData name="longitude">36.4</SimpleData>
+                        <SimpleData name="latitude">138.53</SimpleData>
+                        <SimpleData name="elevation">2560.0</SimpleData>
+                        <SimpleData name="type">Complex volcano</SimpleData>
+                        <SimpleData name="total_death">800</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1598-05-13Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>138.53,36.4</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fa8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Peru</SimpleData>
+                        <SimpleData name="longitude">-16.608</SimpleData>
+                        <SimpleData name="latitude">-70.85</SimpleData>
+                        <SimpleData name="elevation">4850.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">1400</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1600-02-19Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-70.85,-16.608</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fa7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Japan</SimpleData>
+                        <SimpleData name="longitude">33.13</SimpleData>
+                        <SimpleData name="latitude">139.77</SimpleData>
+                        <SimpleData name="elevation">854.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1606-01-23Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>139.77,33.13</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fa6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Indonesia</SimpleData>
+                        <SimpleData name="longitude">0.8</SimpleData>
+                        <SimpleData name="latitude">127.325</SimpleData>
+                        <SimpleData name="elevation">1715.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1608-07-18Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>127.325,0.8</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fa5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Pacific Ocean</SimpleData>
+                        <SimpleData name="longitude">-4.525</SimpleData>
+                        <SimpleData name="latitude">129.871</SimpleData>
+                        <SimpleData name="elevation">640.0</SimpleData>
+                        <SimpleData name="type">Caldera</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1615-03-01Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>129.871,-4.525</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fa4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Iceland</SimpleData>
+                        <SimpleData name="longitude">63.63</SimpleData>
+                        <SimpleData name="latitude">-19.05</SimpleData>
+                        <SimpleData name="elevation">1512.0</SimpleData>
+                        <SimpleData name="type">Subglacial volcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1625-09-02Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-19.05,63.63</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fa3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Portugal</SimpleData>
+                        <SimpleData name="longitude">37.77</SimpleData>
+                        <SimpleData name="latitude">-25.32</SimpleData>
+                        <SimpleData name="elevation">805.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">200</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1630-09-03Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-25.32,37.77</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fa2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Ethiopia</SimpleData>
+                        <SimpleData name="longitude">11.28</SimpleData>
+                        <SimpleData name="latitude">41.63</SimpleData>
+                        <SimpleData name="elevation">1068.0</SimpleData>
+                        <SimpleData name="type">Shield volcano</SimpleData>
+                        <SimpleData name="total_death">50</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1631-02-14Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>41.63,11.28</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fa1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Italy</SimpleData>
+                        <SimpleData name="longitude">40.821</SimpleData>
+                        <SimpleData name="latitude">14.426</SimpleData>
+                        <SimpleData name="elevation">1281.0</SimpleData>
+                        <SimpleData name="type">Complex volcano</SimpleData>
+                        <SimpleData name="total_death">4000</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1631-12-16Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>14.426,40.821</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7fa0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Iceland</SimpleData>
+                        <SimpleData name="longitude">63.98</SimpleData>
+                        <SimpleData name="latitude">-19.7</SimpleData>
+                        <SimpleData name="elevation">1491.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1636-05-15Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-19.7,63.98</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7f9f">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Japan</SimpleData>
+                        <SimpleData name="longitude">42.07</SimpleData>
+                        <SimpleData name="latitude">140.68</SimpleData>
+                        <SimpleData name="elevation">1140.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">700</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1640-07-31Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>140.68,42.07</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7f9e">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Indonesia</SimpleData>
+                        <SimpleData name="longitude">0.32</SimpleData>
+                        <SimpleData name="latitude">127.4</SimpleData>
+                        <SimpleData name="elevation">1357.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1646-07-19Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>127.4,0.32</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7f9d">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Greece</SimpleData>
+                        <SimpleData name="longitude">36.404</SimpleData>
+                        <SimpleData name="latitude">25.396</SimpleData>
+                        <SimpleData name="elevation">329.0</SimpleData>
+                        <SimpleData name="type">Shield volcano</SimpleData>
+                        <SimpleData name="total_death">120</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1650-09-26Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>25.396,36.404</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7f9c">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">El Salvador</SimpleData>
+                        <SimpleData name="longitude">13.736</SimpleData>
+                        <SimpleData name="latitude">-89.286</SimpleData>
+                        <SimpleData name="elevation">1893.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1659-09-30Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-89.286,13.736</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7f9b">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Pacific Ocean</SimpleData>
+                        <SimpleData name="longitude">-6.92</SimpleData>
+                        <SimpleData name="latitude">129.125</SimpleData>
+                        <SimpleData name="elevation">655.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1659-11-11Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>129.125,-6.92</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7f9a">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Pacific Ocean</SimpleData>
+                        <SimpleData name="longitude">-6.92</SimpleData>
+                        <SimpleData name="latitude">129.125</SimpleData>
+                        <SimpleData name="elevation">655.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">3</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1660-02-01Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>129.125,-6.92</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7f99">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Iceland</SimpleData>
+                        <SimpleData name="longitude">63.63</SimpleData>
+                        <SimpleData name="latitude">-19.05</SimpleData>
+                        <SimpleData name="elevation">1512.0</SimpleData>
+                        <SimpleData name="type">Subglacial volcano</SimpleData>
+                        <SimpleData name="total_death">0</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1660-11-03Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-19.05,63.63</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="volcanoes.fid--59106f55_155bc1e73c2_-7f98">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#volcanoes_1">
+                        <SimpleData name="country">Japan</SimpleData>
+                        <SimpleData name="longitude">42.53</SimpleData>
+                        <SimpleData name="latitude">140.83</SimpleData>
+                        <SimpleData name="elevation">731.0</SimpleData>
+                        <SimpleData name="type">Stratovolcano</SimpleData>
+                        <SimpleData name="total_death">5</SimpleData>
+                        <SimpleData name="total_damage">0.0</SimpleData>
+                        <SimpleData name="date_occured">1663-08-16Z</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>140.83,42.53</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
