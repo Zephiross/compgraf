@@ -21,8 +21,8 @@
                 <range>8731655.53115687</range>
                 <altitudeMode>clampToGround</altitudeMode>
             </LookAt>
-            <Placemark id="country_vol_dmg.fid-198563ef_155c14c8932_-789f">
-                <name>country_vol_dmg.fid-198563ef_155c14c8932_-789f</name>
+            <Placemark id="country_vol_dmg.fid-198563ef_155c14c8932_-77cf">
+                <name>country_vol_dmg.fid-198563ef_155c14c8932_-77cf</name>
                 <description>&lt;h4&gt;country_vol_dmg&lt;/h4&gt;
 
 &lt;ul class="textattributes"&gt;
@@ -61,7 +61,7 @@
                         <width>1.0</width>
                     </LineStyle>
                     <PolyStyle>
-                        <color>ffaaaaaa</color>
+                        <color>ffc04040</color>
                         <outline>1</outline>
                     </PolyStyle>
                 </Style>
@@ -177,8 +177,8 @@
                     </MultiGeometry>
                 </MultiGeometry>
             </Placemark>
-            <Placemark id="country_vol_dmg.fid-198563ef_155c14c8932_-789e">
-                <name>country_vol_dmg.fid-198563ef_155c14c8932_-789e</name>
+            <Placemark id="country_vol_dmg.fid-198563ef_155c14c8932_-77ce">
+                <name>country_vol_dmg.fid-198563ef_155c14c8932_-77ce</name>
                 <description>&lt;h4&gt;country_vol_dmg&lt;/h4&gt;
 
 &lt;ul class="textattributes"&gt;
@@ -217,7 +217,7 @@
                         <width>1.0</width>
                     </LineStyle>
                     <PolyStyle>
-                        <color>ffaaaaaa</color>
+                        <color>ffc04040</color>
                         <outline>1</outline>
                     </PolyStyle>
                 </Style>
@@ -333,8 +333,8 @@
                     </MultiGeometry>
                 </MultiGeometry>
             </Placemark>
-            <Placemark id="country_vol_dmg.fid-198563ef_155c14c8932_-789d">
-                <name>country_vol_dmg.fid-198563ef_155c14c8932_-789d</name>
+            <Placemark id="country_vol_dmg.fid-198563ef_155c14c8932_-77cd">
+                <name>country_vol_dmg.fid-198563ef_155c14c8932_-77cd</name>
                 <description>&lt;h4&gt;country_vol_dmg&lt;/h4&gt;
 
 &lt;ul class="textattributes"&gt;
@@ -373,7 +373,7 @@
                         <width>1.0</width>
                     </LineStyle>
                     <PolyStyle>
-                        <color>ffaaaaaa</color>
+                        <color>ffc04040</color>
                         <outline>1</outline>
                     </PolyStyle>
                 </Style>
@@ -489,8 +489,8 @@
                     </MultiGeometry>
                 </MultiGeometry>
             </Placemark>
-            <Placemark id="country_vol_dmg.fid-198563ef_155c14c8932_-789c">
-                <name>country_vol_dmg.fid-198563ef_155c14c8932_-789c</name>
+            <Placemark id="country_vol_dmg.fid-198563ef_155c14c8932_-77cc">
+                <name>country_vol_dmg.fid-198563ef_155c14c8932_-77cc</name>
                 <description>&lt;h4&gt;country_vol_dmg&lt;/h4&gt;
 
 &lt;ul class="textattributes"&gt;
@@ -529,7 +529,7 @@
                         <width>1.0</width>
                     </LineStyle>
                     <PolyStyle>
-                        <color>ffaaaaaa</color>
+                        <color>ffc04040</color>
                         <outline>1</outline>
                     </PolyStyle>
                 </Style>
@@ -565,8 +565,8 @@
                     </MultiGeometry>
                 </MultiGeometry>
             </Placemark>
-            <Placemark id="country_vol_dmg.fid-198563ef_155c14c8932_-789b">
-                <name>country_vol_dmg.fid-198563ef_155c14c8932_-789b</name>
+            <Placemark id="country_vol_dmg.fid-198563ef_155c14c8932_-77cb">
+                <name>country_vol_dmg.fid-198563ef_155c14c8932_-77cb</name>
                 <description>&lt;h4&gt;country_vol_dmg&lt;/h4&gt;
 
 &lt;ul class="textattributes"&gt;
@@ -605,7 +605,7 @@
                         <width>1.0</width>
                     </LineStyle>
                     <PolyStyle>
-                        <color>ffaaaaaa</color>
+                        <color>ffc04040</color>
                         <outline>1</outline>
                     </PolyStyle>
                 </Style>
@@ -641,8 +641,8 @@
                     </MultiGeometry>
                 </MultiGeometry>
             </Placemark>
-            <Placemark id="country_vol_dmg.fid-198563ef_155c14c8932_-789a">
-                <name>country_vol_dmg.fid-198563ef_155c14c8932_-789a</name>
+            <Placemark id="country_vol_dmg.fid-198563ef_155c14c8932_-77ca">
+                <name>country_vol_dmg.fid-198563ef_155c14c8932_-77ca</name>
                 <description>&lt;h4&gt;country_vol_dmg&lt;/h4&gt;
 
 &lt;ul class="textattributes"&gt;
@@ -681,7 +681,7 @@
                         <width>1.0</width>
                     </LineStyle>
                     <PolyStyle>
-                        <color>ffaaaaaa</color>
+                        <color>ffc04040</color>
                         <outline>1</outline>
                     </PolyStyle>
                 </Style>
@@ -699,8 +699,8 @@
                     </Polygon>
                 </MultiGeometry>
             </Placemark>
-            <Placemark id="country_vol_dmg.fid-198563ef_155c14c8932_-7899">
-                <name>country_vol_dmg.fid-198563ef_155c14c8932_-7899</name>
+            <Placemark id="country_vol_dmg.fid-198563ef_155c14c8932_-77c9">
+                <name>country_vol_dmg.fid-198563ef_155c14c8932_-77c9</name>
                 <description>&lt;h4&gt;country_vol_dmg&lt;/h4&gt;
 
 &lt;ul class="textattributes"&gt;
@@ -739,7 +739,7 @@
                         <width>1.0</width>
                     </LineStyle>
                     <PolyStyle>
-                        <color>ffaaaaaa</color>
+                        <color>ffc04040</color>
                         <outline>1</outline>
                     </PolyStyle>
                 </Style>
@@ -831,8 +831,8 @@
                     </MultiGeometry>
                 </MultiGeometry>
             </Placemark>
-            <Placemark id="country_vol_dmg.fid-198563ef_155c14c8932_-7898">
-                <name>country_vol_dmg.fid-198563ef_155c14c8932_-7898</name>
+            <Placemark id="country_vol_dmg.fid-198563ef_155c14c8932_-77c8">
+                <name>country_vol_dmg.fid-198563ef_155c14c8932_-77c8</name>
                 <description>&lt;h4&gt;country_vol_dmg&lt;/h4&gt;
 
 &lt;ul class="textattributes"&gt;
@@ -871,7 +871,7 @@
                         <width>1.0</width>
                     </LineStyle>
                     <PolyStyle>
-                        <color>ffaaaaaa</color>
+                        <color>ffc04040</color>
                         <outline>1</outline>
                     </PolyStyle>
                 </Style>
@@ -963,8 +963,8 @@
                     </MultiGeometry>
                 </MultiGeometry>
             </Placemark>
-            <Placemark id="country_vol_dmg.fid-198563ef_155c14c8932_-7897">
-                <name>country_vol_dmg.fid-198563ef_155c14c8932_-7897</name>
+            <Placemark id="country_vol_dmg.fid-198563ef_155c14c8932_-77c7">
+                <name>country_vol_dmg.fid-198563ef_155c14c8932_-77c7</name>
                 <description>&lt;h4&gt;country_vol_dmg&lt;/h4&gt;
 
 &lt;ul class="textattributes"&gt;
@@ -1003,7 +1003,7 @@
                         <width>1.0</width>
                     </LineStyle>
                     <PolyStyle>
-                        <color>ffaaaaaa</color>
+                        <color>ffc04040</color>
                         <outline>1</outline>
                     </PolyStyle>
                 </Style>
@@ -1095,8 +1095,8 @@
                     </MultiGeometry>
                 </MultiGeometry>
             </Placemark>
-            <Placemark id="country_vol_dmg.fid-198563ef_155c14c8932_-7896">
-                <name>country_vol_dmg.fid-198563ef_155c14c8932_-7896</name>
+            <Placemark id="country_vol_dmg.fid-198563ef_155c14c8932_-77c6">
+                <name>country_vol_dmg.fid-198563ef_155c14c8932_-77c6</name>
                 <description>&lt;h4&gt;country_vol_dmg&lt;/h4&gt;
 
 &lt;ul class="textattributes"&gt;
@@ -1135,7 +1135,7 @@
                         <width>1.0</width>
                     </LineStyle>
                     <PolyStyle>
-                        <color>ffaaaaaa</color>
+                        <color>ffc04040</color>
                         <outline>1</outline>
                     </PolyStyle>
                 </Style>
